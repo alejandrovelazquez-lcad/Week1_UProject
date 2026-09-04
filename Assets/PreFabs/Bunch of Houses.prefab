@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8544766175949892889
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4008927568180752766}
+  m_Layer: 0
+  m_Name: Bunch of Houses
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4008927568180752766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8544766175949892889}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1523749101269898765}
+  - {fileID: 4975573885568095288}
+  - {fileID: 6592884099697789671}
+  - {fileID: 7144507880829296395}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &919388162182117719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4008927568180752766}
+    m_Modifications:
+    - target: {fileID: 3021540525841208009, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_Name
+      value: Mush House (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.35162607
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.07974883
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.24261731
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.496
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.096
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.94592416
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.324388
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 37.857
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+--- !u!4 &4975573885568095288 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+  m_PrefabInstance: {fileID: 919388162182117719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1346639612317116296
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4008927568180752766}
+    m_Modifications:
+    - target: {fileID: 3021540525841208009, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_Name
+      value: Mush House
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.22506912
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0680339
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.22506912
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.036
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.018
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+--- !u!4 &6592884099697789671 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+  m_PrefabInstance: {fileID: 1346639612317116296}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3091998975836844644
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4008927568180752766}
+    m_Modifications:
+    - target: {fileID: 3021540525841208009, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_Name
+      value: Mush House (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2988918
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0680339
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.22506914
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.3343094
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.285
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.0845886
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99476105
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.10222837
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 11.735
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+--- !u!4 &7144507880829296395 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+  m_PrefabInstance: {fileID: 3091998975836844644}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6695701473456307042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4008927568180752766}
+    m_Modifications:
+    - target: {fileID: 3021540525841208009, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_Name
+      value: Mush House
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4728254
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.32624325
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.107236765
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+--- !u!4 &1523749101269898765 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5318356159356169583, guid: 22d5f4a1b4f6b4f3c96bebf887163c28, type: 3}
+  m_PrefabInstance: {fileID: 6695701473456307042}
+  m_PrefabAsset: {fileID: 0}
